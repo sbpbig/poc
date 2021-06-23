@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "Netezza",
 		"typeProperties": {
-			"connectionString": "server=10.7.5.160;port=5480;database=EDWPRD;uid=BIG_DATA_PRD;securitylevel=preferredUnSecured",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0OTY0MjY5OS0xOTM1LTQwMWQtYTViYi1jY2YzNjJjNmFhY2QiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"connectionString": "server=10.7.5.160;port=5480;database=EDWPRD;uid=admin;securitylevel=preferredUnSecured",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJiODU3NTRmMy1lNmU2LTQ3ZDktODY5NS00NDQ2ZmE2OGI4MmUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntimeSBP",
