@@ -1,0 +1,9 @@
+{
+	"name": "demo-tug",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0131f582-3fe9-4c7d-9f4d-a60ee13a9ae3",
+		"tenantId": "a5c20665-f3d8-4f07-b211-5051a9b92f26"
+	}
+}
