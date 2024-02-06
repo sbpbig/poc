@@ -1,0 +1,9 @@
+{
+	"name": "oak-adf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6776a71-f58c-4596-a15a-369b4e30b719",
+		"tenantId": "a5c20665-f3d8-4f07-b211-5051a9b92f26"
+	}
+}
